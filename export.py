@@ -1,2 +1,2 @@
 import os
-x = 1:wq
+x = 1:
